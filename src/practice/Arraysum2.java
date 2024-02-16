@@ -1,9 +1,9 @@
 package practice;
 
-public class Arraysum {
+public class Arraysum2 {
                      public static void main(String[] args) {
 						
-                    	int[]arr= {29,34,5,37,56,11,34,111,23,6,8128,200,500};
+                    	int[]arr= {29,34,5,37,56,11,34,111,23,6,8128};
                     	int x;
                     	for(int i=0;i<arr.length;i++)
                     	{
