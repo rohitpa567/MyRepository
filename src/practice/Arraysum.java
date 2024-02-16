@@ -20,7 +20,7 @@ public class Arraysum {
                     			
                     	  }
                     	  if(in==0)
-                    	  System.out.println("prime nos are =" + x);
+                    	  System.out.println(" nos are =" + x);
 
                     	}	
                     		                    	
