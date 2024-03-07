@@ -1,0 +1,5 @@
+# Created at 2024-03-07T23:42:56.979
+Boot Manifest-JAR contains absolute paths in classpath 'G:\directory\CST63CCPFrameworkNew\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
