@@ -35,7 +35,7 @@ public class SauceDemoTest extends BaseTests {
 		
 		String expMsg= "THANK YOU FOR YOUR ORDER";
 		
-		Assert.assertEquals(actMsg, expMsg,"actual and expected message not matched");
+		Assert.assertEquals(actMsg, expMsg,"actual and expected con message not matched");
 
 	}
 
